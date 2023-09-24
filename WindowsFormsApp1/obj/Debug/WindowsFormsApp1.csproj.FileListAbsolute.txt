@@ -9,3 +9,14 @@ C:\Users\zelenyo.04\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csp
 C:\Users\zelenyo.04\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\zelenyo.04\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\zelenyo.04\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dell\Source\Repos\Opakovani5v\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
